@@ -1,8 +1,18 @@
-# React + Vite
+# React + Vite : Aprendizado Básico
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina de aprendizado básico.
 
-Currently, two official plugins are available:
+- Criando o primeiro componente;
+- Adicionando o componente button;
+- Adicionando componente lista static - usando props e huks;
+- Adicionando componente lista com side effects(efeitos colaterais) ;
+- Adicionando componente lista com consumo de API(JSONPLACEHOLDER - https://jsonplaceholder.typicode.com/todos) com fetch();
+- Adicionando estilos css por classe global e por module
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Para testar:
+
+- Baixe o projeto
+- Digite os seguinte comando:
+  -- npm install ;
+  -- npm run dev;
+  Assim poderá ver como funciona o básico do React.
