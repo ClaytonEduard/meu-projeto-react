@@ -12,7 +12,9 @@ Pagina de aprendizado básico.
 # Para testar:
 
 - Baixe o projeto
-- Digite os seguinte comando:
-  -- npm install ;
-  -- npm run dev;
-  Assim poderá ver como funciona o básico do React.
+- Digite os seguinte comando;
+- `npm install`;
+- `npm run dev`;
+
+
+Assim poderá ver como funciona o básico do React.
